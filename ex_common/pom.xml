@@ -13,13 +13,12 @@
     <packaging>pom</packaging>
     <modules>
         <module>ex_common_core</module>
-        <module>common_base</module>
         <module>ex_common_datasource</module>
         <module>ex_common_base</module>
         <module>ex_common_security</module>
-        <module>common_swagger2</module>
-        <module>ex_common_mybatis_puls</module>
         <module>ex_common_log</module>
+        <module>ex_common_mybatisplus</module>
+        <module>ex_common_swagger</module>
     </modules>
 
 
